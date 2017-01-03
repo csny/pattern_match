@@ -4,7 +4,7 @@ https://paiza.jp/poh/ando/challenge/56e810b3/ando11
   
   
 2.動作条件  
-JAVA1.8で書かれています。  
+Java1.8で書かれています。  
 Eclipse4.5.1で動作確認済み。  
   
   
