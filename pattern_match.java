@@ -1,11 +1,11 @@
-package patternmatch;
+package pattern_match;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.stream.IntStream;
 
-public class hello {
+public class pattern_match {
 	// 入力画像（背景）とパターン画像との精査
 	private static Boolean isMatch (int[][] base, int[] pattern, int pattern_size, int y, int x) {
 		int m = 0;
